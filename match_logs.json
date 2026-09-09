@@ -884,7 +884,7 @@
     "deck_archetype": "Mono-Red Aggro",
     "on_the_play": true,
     "game_length_turns": 7,
-    "is_winner": false,
+    "is_winner": true,
     "hero_life_at_end": 0
   },
   {
@@ -898,9 +898,9 @@
   {
     "match_id": "17L_MTGA_78113",
     "deck_archetype": "Mono-Red Aggro",
-    "on_the_play": false,
+    "on_the_play": true,
     "game_length_turns": 7,
-    "is_winner": false,
+    "is_winner": true,
     "hero_life_at_end": 0
   },
   {
@@ -1028,7 +1028,7 @@
     "deck_archetype": "Mono-Red Aggro",
     "on_the_play": true,
     "game_length_turns": 7,
-    "is_winner": false,
+    "is_winner": true,
     "hero_life_at_end": 0
   },
   {
@@ -1098,7 +1098,7 @@
   {
     "match_id": "17L_MTGA_78138",
     "deck_archetype": "Mono-Red Aggro",
-    "on_the_play": false,
+    "on_the_play": true,
     "game_length_turns": 7,
     "is_winner": true,
     "hero_life_at_end": 17
@@ -1186,7 +1186,7 @@
   {
     "match_id": "17L_MTGA_78149",
     "deck_archetype": "Mono-Red Aggro",
-    "on_the_play": false,
+    "on_the_play": true,
     "game_length_turns": 7,
     "is_winner": true,
     "hero_life_at_end": 3
