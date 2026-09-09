@@ -1,0 +1,1202 @@
+[
+  {
+    "match_id": "17L_MTGA_78001",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": true,
+    "game_length_turns": 4,
+    "is_winner": true,
+    "hero_life_at_end": 4
+  },
+  {
+    "match_id": "17L_MTGA_78002",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": true,
+    "game_length_turns": 6,
+    "is_winner": true,
+    "hero_life_at_end": 7
+  },
+  {
+    "match_id": "17L_MTGA_78003",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": true,
+    "game_length_turns": 21,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78004",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": false,
+    "game_length_turns": 10,
+    "is_winner": true,
+    "hero_life_at_end": 1
+  },
+  {
+    "match_id": "17L_MTGA_78005",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": false,
+    "game_length_turns": 12,
+    "is_winner": true,
+    "hero_life_at_end": 11
+  },
+  {
+    "match_id": "17L_MTGA_78006",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": true,
+    "game_length_turns": 5,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78007",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": false,
+    "game_length_turns": 11,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78008",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": false,
+    "game_length_turns": 5,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78009",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": false,
+    "game_length_turns": 11,
+    "is_winner": true,
+    "hero_life_at_end": 8
+  },
+  {
+    "match_id": "17L_MTGA_78010",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": true,
+    "game_length_turns": 12,
+    "is_winner": true,
+    "hero_life_at_end": 9
+  },
+  {
+    "match_id": "17L_MTGA_78011",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": false,
+    "game_length_turns": 8,
+    "is_winner": true,
+    "hero_life_at_end": 9
+  },
+  {
+    "match_id": "17L_MTGA_78012",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": true,
+    "game_length_turns": 4,
+    "is_winner": true,
+    "hero_life_at_end": 13
+  },
+  {
+    "match_id": "17L_MTGA_78013",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": true,
+    "game_length_turns": 12,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78014",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": true,
+    "game_length_turns": 5,
+    "is_winner": true,
+    "hero_life_at_end": 3
+  },
+  {
+    "match_id": "17L_MTGA_78015",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": false,
+    "game_length_turns": 17,
+    "is_winner": true,
+    "hero_life_at_end": 15
+  },
+  {
+    "match_id": "17L_MTGA_78016",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": false,
+    "game_length_turns": 21,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78017",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": false,
+    "game_length_turns": 9,
+    "is_winner": true,
+    "hero_life_at_end": 5
+  },
+  {
+    "match_id": "17L_MTGA_78018",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": false,
+    "game_length_turns": 6,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78019",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": true,
+    "game_length_turns": 16,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78020",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": false,
+    "game_length_turns": 9,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78021",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": true,
+    "game_length_turns": 6,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78022",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": false,
+    "game_length_turns": 8,
+    "is_winner": true,
+    "hero_life_at_end": 14
+  },
+  {
+    "match_id": "17L_MTGA_78023",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": false,
+    "game_length_turns": 1,
+    "is_winner": false,
+    "hero_life_at_end": 20
+  },
+  {
+    "match_id": "17L_MTGA_78024",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": true,
+    "game_length_turns": 6,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78025",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": true,
+    "game_length_turns": 12,
+    "is_winner": true,
+    "hero_life_at_end": 17
+  },
+  {
+    "match_id": "17L_MTGA_78026",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": false,
+    "game_length_turns": 3,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78027",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": true,
+    "game_length_turns": 10,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78028",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": false,
+    "game_length_turns": 7,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78029",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": false,
+    "game_length_turns": 12,
+    "is_winner": true,
+    "hero_life_at_end": 20
+  },
+  {
+    "match_id": "17L_MTGA_78030",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": true,
+    "game_length_turns": 12,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78031",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": false,
+    "game_length_turns": 20,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78032",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": false,
+    "game_length_turns": 7,
+    "is_winner": true,
+    "hero_life_at_end": 1
+  },
+  {
+    "match_id": "17L_MTGA_78033",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": true,
+    "game_length_turns": 6,
+    "is_winner": true,
+    "hero_life_at_end": 2
+  },
+  {
+    "match_id": "17L_MTGA_78034",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": true,
+    "game_length_turns": 15,
+    "is_winner": true,
+    "hero_life_at_end": 8
+  },
+  {
+    "match_id": "17L_MTGA_78035",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": false,
+    "game_length_turns": 7,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78036",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": false,
+    "game_length_turns": 9,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78037",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": true,
+    "game_length_turns": 16,
+    "is_winner": true,
+    "hero_life_at_end": 14
+  },
+  {
+    "match_id": "17L_MTGA_78038",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": true,
+    "game_length_turns": 11,
+    "is_winner": true,
+    "hero_life_at_end": 13
+  },
+  {
+    "match_id": "17L_MTGA_78039",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": true,
+    "game_length_turns": 7,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78040",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": false,
+    "game_length_turns": 17,
+    "is_winner": true,
+    "hero_life_at_end": 3
+  },
+  {
+    "match_id": "17L_MTGA_78041",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": true,
+    "game_length_turns": 10,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78042",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": true,
+    "game_length_turns": 6,
+    "is_winner": true,
+    "hero_life_at_end": 13
+  },
+  {
+    "match_id": "17L_MTGA_78043",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": true,
+    "game_length_turns": 6,
+    "is_winner": true,
+    "hero_life_at_end": 15
+  },
+  {
+    "match_id": "17L_MTGA_78044",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": false,
+    "game_length_turns": 11,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78045",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": false,
+    "game_length_turns": 8,
+    "is_winner": true,
+    "hero_life_at_end": 2
+  },
+  {
+    "match_id": "17L_MTGA_78046",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": true,
+    "game_length_turns": 6,
+    "is_winner": true,
+    "hero_life_at_end": 16
+  },
+  {
+    "match_id": "17L_MTGA_78047",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": true,
+    "game_length_turns": 10,
+    "is_winner": true,
+    "hero_life_at_end": 6
+  },
+  {
+    "match_id": "17L_MTGA_78048",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": true,
+    "game_length_turns": 4,
+    "is_winner": true,
+    "hero_life_at_end": 19
+  },
+  {
+    "match_id": "17L_MTGA_78049",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": true,
+    "game_length_turns": 16,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78050",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": false,
+    "game_length_turns": 7,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78051",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": true,
+    "game_length_turns": 7,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78052",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": false,
+    "game_length_turns": 12,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78053",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": false,
+    "game_length_turns": 7,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78054",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": true,
+    "game_length_turns": 4,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78055",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": true,
+    "game_length_turns": 4,
+    "is_winner": true,
+    "hero_life_at_end": 18
+  },
+  {
+    "match_id": "17L_MTGA_78056",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": true,
+    "game_length_turns": 10,
+    "is_winner": true,
+    "hero_life_at_end": 4
+  },
+  {
+    "match_id": "17L_MTGA_78057",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": false,
+    "game_length_turns": 11,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78058",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": false,
+    "game_length_turns": 13,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78059",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": false,
+    "game_length_turns": 14,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78060",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": true,
+    "game_length_turns": 5,
+    "is_winner": true,
+    "hero_life_at_end": 11
+  },
+  {
+    "match_id": "17L_MTGA_78061",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": false,
+    "game_length_turns": 17,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78062",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": true,
+    "game_length_turns": 11,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78063",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": true,
+    "game_length_turns": 10,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78064",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": true,
+    "game_length_turns": 8,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78065",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": false,
+    "game_length_turns": 4,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78066",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": false,
+    "game_length_turns": 11,
+    "is_winner": true,
+    "hero_life_at_end": 8
+  },
+  {
+    "match_id": "17L_MTGA_78067",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": true,
+    "game_length_turns": 10,
+    "is_winner": true,
+    "hero_life_at_end": 11
+  },
+  {
+    "match_id": "17L_MTGA_78068",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": true,
+    "game_length_turns": 12,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78069",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": true,
+    "game_length_turns": 7,
+    "is_winner": true,
+    "hero_life_at_end": 15
+  },
+  {
+    "match_id": "17L_MTGA_78070",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": false,
+    "game_length_turns": 12,
+    "is_winner": true,
+    "hero_life_at_end": 1
+  },
+  {
+    "match_id": "17L_MTGA_78071",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": false,
+    "game_length_turns": 11,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78072",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": false,
+    "game_length_turns": 9,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78073",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": false,
+    "game_length_turns": 6,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78074",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": true,
+    "game_length_turns": 8,
+    "is_winner": true,
+    "hero_life_at_end": 20
+  },
+  {
+    "match_id": "17L_MTGA_78075",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": false,
+    "game_length_turns": 8,
+    "is_winner": true,
+    "hero_life_at_end": 17
+  },
+  {
+    "match_id": "17L_MTGA_78076",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": false,
+    "game_length_turns": 4,
+    "is_winner": true,
+    "hero_life_at_end": 14
+  },
+  {
+    "match_id": "17L_MTGA_78077",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": true,
+    "game_length_turns": 3,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78078",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": false,
+    "game_length_turns": 6,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78079",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": false,
+    "game_length_turns": 8,
+    "is_winner": true,
+    "hero_life_at_end": 10
+  },
+  {
+    "match_id": "17L_MTGA_78080",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": true,
+    "game_length_turns": 11,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78081",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": false,
+    "game_length_turns": 10,
+    "is_winner": true,
+    "hero_life_at_end": 7
+  },
+  {
+    "match_id": "17L_MTGA_78082",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": false,
+    "game_length_turns": 9,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78083",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": false,
+    "game_length_turns": 12,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78084",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": false,
+    "game_length_turns": 7,
+    "is_winner": true,
+    "hero_life_at_end": 8
+  },
+  {
+    "match_id": "17L_MTGA_78085",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": true,
+    "game_length_turns": 7,
+    "is_winner": true,
+    "hero_life_at_end": 8
+  },
+  {
+    "match_id": "17L_MTGA_78086",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": true,
+    "game_length_turns": 11,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78087",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": false,
+    "game_length_turns": 7,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78088",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": true,
+    "game_length_turns": 4,
+    "is_winner": true,
+    "hero_life_at_end": 17
+  },
+  {
+    "match_id": "17L_MTGA_78089",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": true,
+    "game_length_turns": 12,
+    "is_winner": true,
+    "hero_life_at_end": 5
+  },
+  {
+    "match_id": "17L_MTGA_78090",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": false,
+    "game_length_turns": 9,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78091",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": false,
+    "game_length_turns": 10,
+    "is_winner": true,
+    "hero_life_at_end": 6
+  },
+  {
+    "match_id": "17L_MTGA_78092",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": false,
+    "game_length_turns": 7,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78093",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": false,
+    "game_length_turns": 8,
+    "is_winner": true,
+    "hero_life_at_end": 10
+  },
+  {
+    "match_id": "17L_MTGA_78094",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": false,
+    "game_length_turns": 18,
+    "is_winner": true,
+    "hero_life_at_end": 5
+  },
+  {
+    "match_id": "17L_MTGA_78095",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": false,
+    "game_length_turns": 21,
+    "is_winner": true,
+    "hero_life_at_end": 14
+  },
+  {
+    "match_id": "17L_MTGA_78096",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": false,
+    "game_length_turns": 9,
+    "is_winner": true,
+    "hero_life_at_end": 14
+  },
+  {
+    "match_id": "17L_MTGA_78097",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": true,
+    "game_length_turns": 12,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78098",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": true,
+    "game_length_turns": 8,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78099",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": true,
+    "game_length_turns": 8,
+    "is_winner": true,
+    "hero_life_at_end": 1
+  },
+  {
+    "match_id": "17L_MTGA_78100",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": false,
+    "game_length_turns": 12,
+    "is_winner": true,
+    "hero_life_at_end": 6
+  },
+  {
+    "match_id": "17L_MTGA_78101",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": true,
+    "game_length_turns": 10,
+    "is_winner": true,
+    "hero_life_at_end": 13
+  },
+  {
+    "match_id": "17L_MTGA_78102",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": true,
+    "game_length_turns": 9,
+    "is_winner": true,
+    "hero_life_at_end": 15
+  },
+  {
+    "match_id": "17L_MTGA_78103",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": true,
+    "game_length_turns": 15,
+    "is_winner": true,
+    "hero_life_at_end": 11
+  },
+  {
+    "match_id": "17L_MTGA_78104",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": false,
+    "game_length_turns": 12,
+    "is_winner": true,
+    "hero_life_at_end": 3
+  },
+  {
+    "match_id": "17L_MTGA_78105",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": true,
+    "game_length_turns": 6,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78106",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": true,
+    "game_length_turns": 12,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78107",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": true,
+    "game_length_turns": 4,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78108",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": true,
+    "game_length_turns": 9,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78109",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": true,
+    "game_length_turns": 8,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78110",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": true,
+    "game_length_turns": 12,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78111",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": true,
+    "game_length_turns": 7,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78112",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": false,
+    "game_length_turns": 7,
+    "is_winner": true,
+    "hero_life_at_end": 8
+  },
+  {
+    "match_id": "17L_MTGA_78113",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": false,
+    "game_length_turns": 7,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78114",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": true,
+    "game_length_turns": 9,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78115",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": false,
+    "game_length_turns": 1,
+    "is_winner": false,
+    "hero_life_at_end": 20
+  },
+  {
+    "match_id": "17L_MTGA_78116",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": false,
+    "game_length_turns": 8,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78117",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": true,
+    "game_length_turns": 11,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78118",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": false,
+    "game_length_turns": 12,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78119",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": false,
+    "game_length_turns": 12,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78120",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": false,
+    "game_length_turns": 9,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78121",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": false,
+    "game_length_turns": 1,
+    "is_winner": false,
+    "hero_life_at_end": 20
+  },
+  {
+    "match_id": "17L_MTGA_78122",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": true,
+    "game_length_turns": 8,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78123",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": false,
+    "game_length_turns": 11,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78124",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": true,
+    "game_length_turns": 7,
+    "is_winner": true,
+    "hero_life_at_end": 14
+  },
+  {
+    "match_id": "17L_MTGA_78125",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": true,
+    "game_length_turns": 11,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78126",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": true,
+    "game_length_turns": 7,
+    "is_winner": true,
+    "hero_life_at_end": 8
+  },
+  {
+    "match_id": "17L_MTGA_78127",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": false,
+    "game_length_turns": 10,
+    "is_winner": true,
+    "hero_life_at_end": 18
+  },
+  {
+    "match_id": "17L_MTGA_78128",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": false,
+    "game_length_turns": 8,
+    "is_winner": true,
+    "hero_life_at_end": 8
+  },
+  {
+    "match_id": "17L_MTGA_78129",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": true,
+    "game_length_turns": 7,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78130",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": true,
+    "game_length_turns": 17,
+    "is_winner": true,
+    "hero_life_at_end": 19
+  },
+  {
+    "match_id": "17L_MTGA_78131",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": false,
+    "game_length_turns": 12,
+    "is_winner": true,
+    "hero_life_at_end": 8
+  },
+  {
+    "match_id": "17L_MTGA_78132",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": true,
+    "game_length_turns": 11,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78133",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": true,
+    "game_length_turns": 10,
+    "is_winner": true,
+    "hero_life_at_end": 5
+  },
+  {
+    "match_id": "17L_MTGA_78134",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": true,
+    "game_length_turns": 10,
+    "is_winner": true,
+    "hero_life_at_end": 16
+  },
+  {
+    "match_id": "17L_MTGA_78135",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": false,
+    "game_length_turns": 6,
+    "is_winner": true,
+    "hero_life_at_end": 16
+  },
+  {
+    "match_id": "17L_MTGA_78136",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": true,
+    "game_length_turns": 3,
+    "is_winner": true,
+    "hero_life_at_end": 2
+  },
+  {
+    "match_id": "17L_MTGA_78137",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": true,
+    "game_length_turns": 14,
+    "is_winner": true,
+    "hero_life_at_end": 8
+  },
+  {
+    "match_id": "17L_MTGA_78138",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": false,
+    "game_length_turns": 7,
+    "is_winner": true,
+    "hero_life_at_end": 17
+  },
+  {
+    "match_id": "17L_MTGA_78139",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": false,
+    "game_length_turns": 8,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78140",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": false,
+    "game_length_turns": 6,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78141",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": true,
+    "game_length_turns": 5,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78142",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": true,
+    "game_length_turns": 11,
+    "is_winner": true,
+    "hero_life_at_end": 14
+  },
+  {
+    "match_id": "17L_MTGA_78143",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": false,
+    "game_length_turns": 7,
+    "is_winner": true,
+    "hero_life_at_end": 10
+  },
+  {
+    "match_id": "17L_MTGA_78144",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": true,
+    "game_length_turns": 8,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78145",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": true,
+    "game_length_turns": 10,
+    "is_winner": true,
+    "hero_life_at_end": 5
+  },
+  {
+    "match_id": "17L_MTGA_78146",
+    "deck_archetype": "Dimir Midrange",
+    "on_the_play": true,
+    "game_length_turns": 7,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78147",
+    "deck_archetype": "Domain Overlord",
+    "on_the_play": false,
+    "game_length_turns": 9,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  },
+  {
+    "match_id": "17L_MTGA_78148",
+    "deck_archetype": "Golgari Midrange",
+    "on_the_play": false,
+    "game_length_turns": 9,
+    "is_winner": true,
+    "hero_life_at_end": 20
+  },
+  {
+    "match_id": "17L_MTGA_78149",
+    "deck_archetype": "Mono-Red Aggro",
+    "on_the_play": false,
+    "game_length_turns": 7,
+    "is_winner": true,
+    "hero_life_at_end": 3
+  },
+  {
+    "match_id": "17L_MTGA_78150",
+    "deck_archetype": "Azorius Control",
+    "on_the_play": true,
+    "game_length_turns": 20,
+    "is_winner": false,
+    "hero_life_at_end": 0
+  }
+]
