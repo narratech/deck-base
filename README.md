@@ -24,7 +24,7 @@ Tu trabajo como analista es procesar el archivo `match_logs.json` y responder a 
 * **`match_logs.json`**: Fichero de datos, similar al que se podría descargar de *17Lands*, con la telemetría de 150 partidas.
 * **`deck-base.ipynb`**: Plantilla del cuaderno interactivo a completar por el alumno. Contiene la descripción de las características y las celdas donde se deberá escribir el código.
 
-## Restricciones Técnicas
+## Restricciones técnicas
 
 * **Prohibido el uso de bibliotecas de terceros:** No se permite importar `numpy`, `pandas`, `scipy`, `matplotlib` ni bibliotecas similares.
 * **Bibliotecas permitidas:** Solo las bibliotecas estándar de Python (módulos como `json`, `math`, etc.).
