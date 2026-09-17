@@ -1,4 +1,4 @@
-# deck-base
+# Deck Base
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/narratech/deck-base/blob/main/deck-base.ipynb)
 
