@@ -17,6 +17,7 @@ dependencies:
   # Integración con VS Code y Jupyter Notebooks (detección inmediata de kernel ejecutable)
   - ipykernel
   - ipywidgets>=8.1
+  - msgpack-python # Añadido expresamente para evitar conflicto con jupyter_client
 
   # Manipulación y cálculo de datos (ya en el ecosistema NumPy 2.x)
   # Lo ideal sería usar el ecosistema de numpy>=2.0, pero PyTorch requiere algo más clásico
