@@ -4,11 +4,14 @@
 
 Este repositorio contiene el punto de partida para la práctica [Análisis de Mazos de Magic](https://narratech.com/es/aprendizaje-automatico-y-mineria-de-datos/introduccion/analisis-de-mazos-de-magic/) de la asignatura Aprendizaje Automático y Minería de Datos. 
 
-Para replicar el entorno de ejecución se puede usar Conda 26.7.2 y el fichero *environment.yml* de este repositorio:
+## Instalación y uso
+Para replicar el entorno de ejecución Python (con las versiones correctas de NumPy, Pandas, Matplotlib, Seaborne, etc.) se recomienda usar Conda 26.7.2 o superior junto al fichero de configuración proporcionado en este repositorio llamado *environment.yml*. Las instrucciones para crear el entorno correspondiente son estas:
+
 ```
 conda env create -f environment.yml
 conda activate aam 
 ```
+Además si se utiliza Visual Studio Code se recomienda hacerlo con las extensiones mencionadas en *.vscode/extensions.json*.
 
 ## Objetivo de la práctica
 El objetivo de la práctica es realizar un análisis estadístico introductorio sobre un supuesto conjunto de datos con telemetría del juego *Magic: The Gathering Arena* utilizando únicamente Python (con sus estructuras de datos, bucles, condicionales y bibliotecas estándar).
